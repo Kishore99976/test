@@ -1,0 +1,4 @@
+
+Welcome to git hub learning
+
+This is the first text file created inside git repository.
