@@ -5,4 +5,10 @@ This is the first text file created inside git repository.
 
 Adding new line to the text file.
 
+
 Adding another line.
+
+Adding new line in master branch.
+
+Done with the changes.
+
